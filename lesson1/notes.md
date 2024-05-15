@@ -1,4 +1,4 @@
-Practices on writing standard pseudocodes.
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/d4d96063-3e01-4e2d-9384-2ebf4b0cef6b)Practices on writing standard pseudocodes.
 
 The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
 
@@ -31,3 +31,16 @@ Greedy algorithms make a series of choices, each of which looks the best at the 
 
 #### Dynamic Programming Algorithm: 
 Dynamic programming algorithms solve problems by breaking them down into simpler subproblems and storing the results of these subproblems to avoid redundant calculations. Example: Fibonacci sequence calculation where previously computed values are stored and reused, reducing the time complexity.
+
+<hr />
+
+### Things to know for exam and assignment
+- Use graph theory to critically evaluate methods that tend to yield efficient algorithms (C3,PLO2) Final Exam
+- Evaluate the operation and complexity of various algorithms and data structures by determining their asymptotic complexity functions (C5, PLO7) Group Assignment (Algorithms and Complexity)
+- Compare the fundamental concepts of complexity including the P Vs NP conjecture by determining the time complexity of the algorithms (C4, PLO7)Group Assignment (Algorithms and Complexity) Group Assignment (Complexity)
+
+### Pre-requisite
+
+- Programming
+- Discrete Maths
+- DSA (Data Structure and Algorithms)
