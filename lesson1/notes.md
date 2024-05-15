@@ -1,6 +1,6 @@
-### Practices on writing standard pseudocodes.
+Practices on writing standard pseudocodes.
 
-### The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
+The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
 
 ## There are pleny types of algorithms.
 #### Brute-Force Algorithm: 
