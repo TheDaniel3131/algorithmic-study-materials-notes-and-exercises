@@ -1,4 +1,4 @@
-![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/d4d96063-3e01-4e2d-9384-2ebf4b0cef6b)Practices on writing standard pseudocodes.
+Practices on writing standard pseudocodes.
 
 The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
 
