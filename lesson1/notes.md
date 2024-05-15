@@ -2,7 +2,7 @@ Practices on writing standard pseudocodes.
 
 The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
 
-<br /> <br />
+<hr />
 
 ## There are various types of algorithms.
 #### Brute-Force Algorithm: 
