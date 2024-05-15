@@ -2,7 +2,7 @@ Practices on writing standard pseudocodes.
 
 The main goal of algorithmic is to solve algorithm design problems efficiently by using the technique.
 
-## There are pleny types of algorithms.
+## There are various types of algorithms.
 #### Brute-Force Algorithm: 
 A brute-force algorithm tries all possible solutions to find the correct one. It's straightforward and often simple to implement but can be highly inefficient, especially for large input sizes. Example: Solving a password by trying every possible combination.
 
