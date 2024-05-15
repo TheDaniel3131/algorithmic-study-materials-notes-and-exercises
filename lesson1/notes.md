@@ -12,20 +12,20 @@ A recursive algorithm solves a problem by solving smaller instances of the same 
 #### Backtracking Algorithm: 
 A backtracking algorithm incrementally builds candidates for the solution and abandons a candidate ("backtracks") as soon as it determines that this candidate cannot possibly lead to a valid solution. Example: Solving a Sudoku puzzle by trying numbers in each cell and backtracking when a conflict is found.
 
-##### Searching Algorithm: 
+#### Searching Algorithm: 
 Searching algorithms are designed to retrieve information stored within some data structure. Example: Binary search, which finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.
 
-##### Sorting Algorithm: 
+#### Sorting Algorithm: 
 Sorting algorithms arrange the elements of a list in a particular order (typically ascending or descending). Example: Quick sort, which selects a 'pivot' element and partitions the array into elements less than and greater than the pivot, then recursively sorts the partitions.
 
-##### Hashing Algorithm:
+#### Hashing Algorithm:
 Hashing algorithms transform input data of arbitrary size into fixed-size values, usually for fast data retrieval. Example: Hash tables, which store key-value pairs and use a hash function to compute an index into an array of buckets or slots from which the desired value can be found.
 
-##### Divide and Conquer Algorithm: 
+#### Divide and Conquer Algorithm: 
 Divide and conquer algorithms solve a problem by breaking it down into smaller subproblems, solving each subproblem independently, and then combining their solutions to solve the original problem. Example: Merge sort, which divides the list into halves, recursively sorts each half, and then merges the sorted halves.
 
-##### Greedy Algorithm: 
+#### Greedy Algorithm: 
 Greedy algorithms make a series of choices, each of which looks the best at the moment, with the hope that the series of local optimum choices will lead to a global optimum solution. Example: Prim's algorithm for finding the minimum spanning tree of a graph.
 
-##### Dynamic Programming Algorithm: 
+#### Dynamic Programming Algorithm: 
 Dynamic programming algorithms solve problems by breaking them down into simpler subproblems and storing the results of these subproblems to avoid redundant calculations. Example: Fibonacci sequence calculation where previously computed values are stored and reused, reducing the time complexity.
