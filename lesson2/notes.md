@@ -2,7 +2,8 @@
 
 ![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/5934a2ae-891e-47e1-b765-e8701608153e)
 
-Answers:
+### Answers:
+
 Q1:
 ```
 Start
