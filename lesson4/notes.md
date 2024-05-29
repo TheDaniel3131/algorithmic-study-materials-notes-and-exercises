@@ -9,3 +9,6 @@
 - Pseudocode cannot be compiled and it is an abstraction of programming language.
 
 Data abstraction hides unwanted details from user to avoid being complex. It is like encapsulation.
+
+## Algorithm Vs Pseudocode
+
