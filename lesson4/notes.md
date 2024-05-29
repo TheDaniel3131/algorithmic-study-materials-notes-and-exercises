@@ -32,5 +32,10 @@ In this sense, bubble sort is to swap the larger elements to the end of the list
 
 ![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/49b8a999-6b2b-43dd-9567-4d292f29670c)
 
+### Others
+
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/0b39b420-a11b-4f68-97d7-795919e0f76e)
+
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/faeafe00-91e5-41ee-9d3c-5975370280e3)
 
 
