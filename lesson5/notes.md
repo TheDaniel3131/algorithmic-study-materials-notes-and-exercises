@@ -45,4 +45,6 @@
 ### Tool to analyze running time of an algo
 ![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/c9a2d4d6-b9bd-4db5-a8ea-0ea501a3ea88)
 
+### Operations of Order of Growth
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/63b6c1a1-2b21-48c4-b4a9-0ef10032b752)
 
