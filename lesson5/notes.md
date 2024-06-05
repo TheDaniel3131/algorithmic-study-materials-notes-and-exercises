@@ -28,3 +28,21 @@
 - Calling/Return
 
 ![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/322eda63-9cfe-4a99-8fd9-c2273d31cd56)
+
+### Example of Worst Case Time Algo
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/97c74f42-cbe1-4170-8ab5-691ed3d4696d)
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/ad72ef67-5580-4d15-9a84-63153113c0c4)
+
+### Graphs
+- Time become larger quadrically.
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/25d04e42-462e-482f-b3af-28235e3f7274)
+
+### Drawbacks in counting primitive operations
+- Concern about Linear In Time & Quadratic In Time
+- Implementation details are insignificant
+- Concern only the order of growth.
+
+### Tool to analyze running time of an algo
+![image](https://github.com/TheDaniel3131/algorithmic-study-materials-notes-and-exercises/assets/71692327/c9a2d4d6-b9bd-4db5-a8ea-0ea501a3ea88)
+
+
